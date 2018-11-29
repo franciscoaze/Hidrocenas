@@ -1,6 +1,6 @@
 uint8_t RED_LED = 6;
 uint8_t GREEN_LED = 9;
-uint8_t BLUE_LED = 10;
+uint8_t BLUE_LED = 5;
 
 int brightness = 255;
 

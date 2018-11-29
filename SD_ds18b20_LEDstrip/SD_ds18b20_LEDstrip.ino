@@ -26,7 +26,7 @@ uint8_t BLUE_LED = 5;
 // Define other vars
 float temp = 0;
 const int sensors_INTERVAL = 1; // in min
-const int leds_INTERVAL = 
+
 void setup(void) 
 { 
  Serial.begin(9600); // start serial port  
